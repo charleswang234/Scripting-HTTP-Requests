@@ -1,0 +1,23 @@
+{
+  "name": "scripting-http-requests-with-nodejs",
+  "version": "1.0.0",
+  "main": "getAndPrintHTMLChunks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleswang234/Scripting-HTTP-Requests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleswang234/Scripting-HTTP-Requests/issues"
+  },
+  "homepage": "https://github.com/charleswang234/Scripting-HTTP-Requests#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
