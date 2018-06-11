@@ -1,4 +1,4 @@
-var https = require('https');
+var https = require('https'); // private variable
 var data = '';
 
 function getAndPrintHTML (options) {
